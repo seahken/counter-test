@@ -24,7 +24,7 @@ A modern single-page application that displays "Next to go" races using the Neds
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd entain-test
+   cd <directory name>
    ```
 
 2. **Install dependencies**
